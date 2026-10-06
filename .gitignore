@@ -1,0 +1,5 @@
+backend/__pycache__/
+backend/attendsure.db
+frontend/node_modules/
+frontend/dist/
+.env
